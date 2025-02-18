@@ -24,7 +24,7 @@ This Power BI Sales Insights Dashboard provides a comprehensive analysis of sale
 
 git clone https://github.com/Zainab-Abdul-Rehman/Sales-Analysis-PowerBI.git
 
-3.	Open Sales_Insights.pbix in Power BI Desktop and explore the data using filters for insights into sales trends.  
+3.	Open sales-insights-dashboard.pbix in Power BI Desktop and explore the data using filters for insights into sales trends.  
 
 # **Project Screenshots**
 
